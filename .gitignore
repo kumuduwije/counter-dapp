@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
+
+# Hardhat specific
+*.log
